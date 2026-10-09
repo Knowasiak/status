@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Website",
+    "url": "https://knowasiak.com",
+    "icon": "https://icons.duckduckgo.com/ip3/knowasiak.com.ico",
+    "slug": "website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 399,
+    "timeDay": 399,
+    "timeWeek": 399,
+    "timeMonth": 399,
+    "timeYear": 399,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Explore",
+    "url": "https://knowasiak.com/explore",
+    "icon": "https://icons.duckduckgo.com/ip3/knowasiak.com.ico",
+    "slug": "explore",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 392,
+    "timeDay": 392,
+    "timeWeek": 392,
+    "timeMonth": 392,
+    "timeYear": 392,
+    "dailyMinutesDown": {}
+  }
+]
