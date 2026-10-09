@@ -1,31 +1,32 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Knowasiak status page (Upptime): https://knowasiak.github.io/status
+# Each site is checked every 5 minutes from GitHub's servers. A failed
+# check opens an issue in this repository (assigned below), which is what
+# the status page shows as an incident; it closes itself when the site is
+# back. Docs: https://upptime.js.org/docs/configuration
+owner: Knowasiak
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Website
+    url: https://knowasiak.com
+  - name: Explore
+    url: https://knowasiak.com/explore
+  # The app and its database (answers 200 only when the database responds).
+  # Turn on once health.php is live on the site:
+  # - name: App and database
+  #   url: https://knowasiak.com/health.php
+
+assignees:
+  - Knowasiak
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /status
+  logoUrl: https://knowasiak.com/themes/default/statics/img/logo.png
+  name: Knowasiak Status
+  introTitle: "Is Knowasiak working?"
+  introMessage: "Checked every 5 minutes from outside the site. When a check fails it shows here as an incident until the site answers again."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Knowasiak
+      href: https://knowasiak.com
