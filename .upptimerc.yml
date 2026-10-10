@@ -12,9 +12,8 @@ sites:
   - name: Explore
     url: https://knowasiak.com/explore
   # The app and its database (answers 200 only when the database responds).
-  # Turn on once health.php is live on the site:
-  # - name: App and database
-  #   url: https://knowasiak.com/health.php
+  - name: App and database
+    url: https://knowasiak.com/health.php
 
 assignees:
   - Knowasiak
