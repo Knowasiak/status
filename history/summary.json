@@ -4,23 +4,24 @@
     "url": "https://knowasiak.com",
     "icon": "https://icons.duckduckgo.com/ip3/knowasiak.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.07%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "98.07%",
     "uptimeMonth": "98.07%",
     "uptimeYear": "98.07%",
-    "time": 892,
-    "timeDay": 739,
-    "timeWeek": 892,
-    "timeMonth": 892,
-    "timeYear": 892,
+    "time": 877,
+    "timeDay": 598,
+    "timeWeek": 877,
+    "timeMonth": 877,
+    "timeYear": 877,
     "dailyMinutesDown": {
       "2026-10-09": 8,
       "2026-10-11": 23,
       "2026-10-12": 12,
       "2026-10-13": 121,
-      "2026-10-14": 6
+      "2026-10-14": 6,
+      "2026-10-16": 1
     }
   },
   {
@@ -28,23 +29,24 @@
     "url": "https://knowasiak.com/explore",
     "icon": "https://icons.duckduckgo.com/ip3/knowasiak.com.ico",
     "slug": "explore",
-    "status": "up",
+    "status": "down",
     "uptime": "98.11%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.11%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "98.11%",
-    "time": 688,
-    "timeDay": 773,
-    "timeWeek": 688,
-    "timeMonth": 688,
-    "timeYear": 688,
+    "time": 672,
+    "timeDay": 497,
+    "timeWeek": 672,
+    "timeMonth": 672,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2026-10-09": 7,
       "2026-10-11": 23,
       "2026-10-12": 11,
       "2026-10-13": 119,
-      "2026-10-14": 5
+      "2026-10-14": 5,
+      "2026-10-16": 0
     }
   },
   {
@@ -52,22 +54,23 @@
     "url": "https://knowasiak.com/health.php",
     "icon": "https://icons.duckduckgo.com/ip3/knowasiak.com.ico",
     "slug": "app-and-database",
-    "status": "up",
+    "status": "down",
     "uptime": "98.09%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.09%",
     "uptimeMonth": "98.09%",
     "uptimeYear": "98.09%",
-    "time": 401,
-    "timeDay": 405,
-    "timeWeek": 401,
-    "timeMonth": 401,
-    "timeYear": 401,
+    "time": 393,
+    "timeDay": 303,
+    "timeWeek": 393,
+    "timeMonth": 393,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2026-10-11": 22,
       "2026-10-12": 10,
       "2026-10-13": 117,
-      "2026-10-14": 5
+      "2026-10-14": 5,
+      "2026-10-16": 0
     }
   }
 ]
