@@ -4,17 +4,17 @@
     "url": "https://knowasiak.com",
     "icon": "https://icons.duckduckgo.com/ip3/knowasiak.com.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "98.36%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
-    "time": 593,
-    "timeDay": 274,
-    "timeWeek": 291,
-    "timeMonth": 593,
-    "timeYear": 593,
+    "status": "up",
+    "uptime": "98.31%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.31%",
+    "time": 592,
+    "timeDay": 329,
+    "timeWeek": 299,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2026-10-09": 8,
       "2026-10-11": 23,
@@ -27,7 +27,7 @@
       "2026-10-20": 32,
       "2026-10-21": 18,
       "2026-10-22": 10,
-      "2026-10-23": 10
+      "2026-10-23": 21
     }
   },
   {
@@ -35,15 +35,15 @@
     "url": "https://knowasiak.com/explore",
     "icon": "https://icons.duckduckgo.com/ip3/knowasiak.com.ico",
     "slug": "explore",
-    "status": "down",
-    "uptime": "98.44%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "98.44%",
-    "uptimeYear": "98.44%",
+    "status": "up",
+    "uptime": "98.38%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
     "time": 504,
-    "timeDay": 336,
-    "timeWeek": 300,
+    "timeDay": 367,
+    "timeWeek": 307,
     "timeMonth": 504,
     "timeYear": 504,
     "dailyMinutesDown": {
@@ -58,7 +58,7 @@
       "2026-10-20": 32,
       "2026-10-21": 16,
       "2026-10-22": 10,
-      "2026-10-23": 8
+      "2026-10-23": 20
     }
   },
   {
@@ -66,17 +66,17 @@
     "url": "https://knowasiak.com/health.php",
     "icon": "https://icons.duckduckgo.com/ip3/knowasiak.com.ico",
     "slug": "app-and-database",
-    "status": "down",
-    "uptime": "98.42%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.42%",
-    "time": 313,
-    "timeDay": 214,
-    "timeWeek": 222,
-    "timeMonth": 313,
-    "timeYear": 313,
+    "status": "up",
+    "uptime": "98.36%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
+    "time": 312,
+    "timeDay": 226,
+    "timeWeek": 224,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2026-10-11": 22,
       "2026-10-12": 10,
@@ -88,7 +88,7 @@
       "2026-10-20": 31,
       "2026-10-21": 16,
       "2026-10-22": 10,
-      "2026-10-23": 8
+      "2026-10-23": 20
     }
   }
 ]
